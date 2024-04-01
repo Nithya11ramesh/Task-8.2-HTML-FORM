@@ -1,0 +1,70 @@
+    
+body{
+    background-color: rgb(218, 109, 127);
+}      
+
+label{
+    color: rgb(15, 14, 14);
+    font-size: 13px;
+   
+}
+  .mainLabel{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    color: rgb(80, 8, 8);
+    
+  }
+
+  .textBox{
+    border: 1px solid rgb(87, 23, 23);
+    padding: 4px;
+    width: 250px;
+    font-size: 17px;
+   
+  }
+
+  .foodLabel{
+    padding-left: 5px;
+    font-weight: bolder;
+  
+  }
+
+  input{
+    font-size: 13px;
+   
+  }
+
+  .radioLabel{ 
+    padding: 13px 20px 0 5px;
+    font-size: 14px;
+    position: relative;
+    bottom: 2px;
+    font-weight:bolder
+ 
+  }
+
+  .btn{
+    margin-top: 20px;
+    width: 100px;
+    background-color: rgb(51, 8, 168);
+    color: rgb(14, 13, 13);
+    
+  }
+
+
+  #warning{
+    color:red;
+    padding: 40px 0 0 20px;
+    
+  }
+
+  .btn:focus,a:active {
+    outline: none !important;
+    box-shadow: none;
+  }
+  table,th,tbody,p{
+    color: rgb(245, 227, 227);
+    background-color: rgb(94, 105, 105);
+   
+  }
